@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RAJ X BGMI STORE</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <img src="logo.jpg" alt="RAJ X BGMI STORE Logo" class="logo">
+        <nav>
+            <ul>
+                <li><a href="#hero">Home</a></li>
+                <li><a href="#catalog">Accounts</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <section id="hero" style="background: url('bgmi-background.jpg') no-repeat center center/cover;">
+        <div class="hero-content">
+            <h1>🎖️ WELCOME TO RAJ x BGMI STORE 🎖️</h1>
+            <p>NO.1 TRUSTED CHANNEL SINCE 2021.<br>ALL THE ACCOUNTS ARE SAFE AND SECURE.</p>
+            <a href="https://telegram.me/D_C_RAJJ" class="btn">Contact Me on Telegram</a>
+            <a href="https://telegram.me/DEAD_STORE" class="btn">Visit Our Channel</a>
+        </div>
+    </section>
+    
+    <section id="catalog">
+        <h2>BGMI Accounts for Sale</h2>
+        <div class="grid">
+            <div class="account-card">
+                <img src="account1.jpg" alt="BGMI Account 1">
+                <h3>Conqueror Rank Account</h3>
+                <p>Includes rare skins and premium features.</p>
+                <p class="price">Price: $50</p>
+                <a href="https://telegram.me/D_C_RAJJ" class="btn">Buy Now</a>
+            </div>
+        </div>
+    </section>
+    
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <a href="https://telegram.me/D_C_RAJJ" class="btn">Contact Me on Telegram</a>
+        <a href="https://telegram.me/DEAD_STORE" class="btn">Visit Our Channel</a>
+    </section>
+    
+    <footer>
+        <p>&copy; 2025 RAJ X BGMI STORE. All rights reserved.</p>
+    </footer>
+</body>
+</html>
