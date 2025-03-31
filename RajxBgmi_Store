@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RAJ X BGMI STORE</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background: url('https://lh3.googleusercontent.com/d/1QpsBnxfu7r9jjY7zsG49wHW3tqDQFA4b') no-repeat center center/cover;
+            color: white;
+            margin: 0;
+        }
+
+        header {
+            background: rgba(0, 0, 0, 0.8);
+            padding: 10px;
+        }
+
+        .logo {
+            width: 100px;
+        }
+
+        h1 {
+            margin: 10px 0;
+        }
+
+        .hero {
+            padding: 50px;
+            background: rgba(0, 0, 0, 0.7);
+        }
+
+        .cta-button, .buy-button, .contact-button {
+            display: inline-block;
+            padding: 10px 20px;
+            margin: 10px;
+            background: orange;
+            color: black;
+            text-decoration: none;
+            font-weight: bold;
+            border-radius: 5px;
+        }
+
+        .account-list {
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap;
+            gap: 20px;
+            padding: 20px;
+        }
+
+        .account {
+            background: rgba(0, 0, 0, 0.7);
+            padding: 20px;
+            border-radius: 10px;
+            width: 250px;
+        }
+
+        .account img {
+            width: 100%;
+            border-radius: 10px;
+        }
+
+        footer {
+            margin-top: 20px;
+            padding: 10px;
+            background: black;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <img src="https://lh3.googleusercontent.com/d/1QifWWahvtG66CWfb5sRw2_Fxl9kNk-GR" alt="RAJ X BGMI STORE Logo" class="logo">
+        <h1>RAJ X BGMI STORE</h1>
+    </header>
+
+    <section class="hero">
+        <h2>Buy Premium BGMI Accounts at Best Prices!</h2>
+        <a href="#catalog" class="cta-button">View Accounts</a>
+    </section>
+
+    <section id="catalog">
+        <h2>BGMI Accounts for Sale</h2>
+        <div class="account-list">
+            <div class="account">
+                <img src="account1.jpg" alt="BGMI Account">
+                <h3>BGMI Account #1</h3>
+                <p>Price: ₹0</p>
+                <p>Level 50, Rare Skins</p>
+                <a href="https://telegram.me/D_C_RAJJ" class="buy-button">Buy Now</a>
+            </div>
+            <div class="account">
+                <img src="account2.jpg" alt="BGMI Account">
+                <h3>BGMI Account #2</h3>
+                <p>Price: ₹0</p>
+                <p>Level 70, Premium Outfits</p>
+                <a href="https://telegram.me/D_C_RAJJ" class="buy-button">Buy Now</a>
+            </div>
+        </div>
+    </section>
+
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <p>For purchases, contact us via Telegram:</p>
+        <a href="https://telegram.me/D_C_RAJJ" class="contact-button">Message on Telegram</a>
+        <a href="https://telegram.me/DEAD_STORE" class="contact-button">Join Our Channel</a>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 RAJ X BGMI STORE. All rights reserved.</p>
+    </footer>
+
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            console.log("RAJ X BGMI STORE is loaded!");
+        });
+    </script>
+</body>
+</html>
