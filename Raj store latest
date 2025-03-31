@@ -34,7 +34,7 @@
         #hero {
             text-align: center;
             padding: 100px 20px;
-            background: url('bgmi-background.jpg') no-repeat center center/cover;
+            background: url('https://drive.google.com/file/d/1QmviPFLjWYlxBOMjaphmZ9nYvEiHx_bG/view?usp=drivesdk') no-repeat center center/cover;
         }
         .hero-content h1 {
             font-size: 36px;
@@ -87,7 +87,7 @@
 </head>
 <body>
     <header>
-        <img src="logo.jpg" alt="RAJ X BGMI STORE Logo" class="logo">
+        <img src="https://drive.google.com/file/d/1QifWWahvtG66CWfb5sRw2_Fxl9kNk-GR/view?usp=drivesdk" alt="RAJ X BGMI STORE Logo" class="logo">
         <nav>
             <ul>
                 <li><a href="#hero">Home</a></li>
@@ -113,7 +113,7 @@
                 <img src="account1.jpg" alt="BGMI Account 1">
                 <h3>Conqueror Rank Account</h3>
                 <p>Includes rare skins and premium features.</p>
-                <p class="price">Price: $50</p>
+                <p class="price">Price: 500</p>
                 <a href="https://telegram.me/D_C_RAJJ" class="btn">Buy Now</a>
             </div>
         </div>
