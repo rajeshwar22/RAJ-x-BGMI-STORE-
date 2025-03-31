@@ -34,7 +34,7 @@
         #hero {
             text-align: center;
             padding: 100px 20px;
-            background: url('https://drive.google.com/file/d/1QmviPFLjWYlxBOMjaphmZ9nYvEiHx_bG/view?usp=drivesdk') no-repeat center center/cover;
+            background: url('https://lh3.googleusercontent.com/d/1QmviPFLjWYlxBOMjaphmZ9nYvEiHx_bG') no-repeat center center/cover;
         }
         .hero-content h1 {
             font-size: 36px;
@@ -87,7 +87,7 @@
 </head>
 <body>
     <header>
-        <img src="https://drive.google.com/file/d/1QifWWahvtG66CWfb5sRw2_Fxl9kNk-GR/view?usp=drivesdk" alt="RAJ X BGMI STORE Logo" class="logo">
+        <img src="https://lh3.googleusercontent.com/d/1QifWWahvtG66CWfb5sRw2_Fxl9kNk-GR" alt="RAJ X BGMI STORE Logo" class="logo">
         <nav>
             <ul>
                 <li><a href="#hero">Home</a></li>
